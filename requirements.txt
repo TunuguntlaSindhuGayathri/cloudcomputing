@@ -1,0 +1,14 @@
+Flask
+keras
+Keras-Preprocessing
+numpy
+tensorflow
+opencv-python
+opencv-python-headless
+openpyxl
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
+tensorflow-estimator
+pillow
+
